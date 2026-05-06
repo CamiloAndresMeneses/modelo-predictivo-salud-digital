@@ -26,3 +26,4 @@ Smartphone Usage and Addiction Analysis (7500 registros)
 
 ## Autor
 Camilo Andrés Cañón Meneses
+Grego Celis
